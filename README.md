@@ -19,7 +19,7 @@ Most of my time goes into experimenting with ideas, solving problems with code, 
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=js,python)
+![Languages](https://skillicons.dev/icons?i=ts,js,python)
 
 **Frontend**
 
