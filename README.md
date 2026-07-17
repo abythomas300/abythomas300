@@ -1,4 +1,4 @@
-# Hey, I'm <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=F8F9FA&width=435&lines=Aby+Thomas+👋" alt="Aby Thomas" />
+# Hey, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=00F2FE&vCenter=true&lines=Aby+Thomas.;a+Full-Stack+Developer.;" alt="Typing SVG" align="center" />
 
 Welcome to my corner of GitHub! I’m a full-stack developer on a mission to build clean, efficient, and real-world systems.
 
