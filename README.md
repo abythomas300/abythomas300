@@ -1,23 +1,21 @@
-# Hey, I'm Aby Thomas 👋
+# Hey, I'm <img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=F8F9FA&width=435&lines=Aby+Thomas+👋" alt="Aby Thomas" />
 
-- Full-Stack Developer in Progress <br>
-- Building projects, learning fast, and improving every day.
+Welcome to my corner of GitHub! I’m a full-stack developer on a mission to build clean, efficient, and real-world systems.
 
-I believe the best way to learn engineering is by **building real systems**. <br>
-Most of my time goes into experimenting with ideas, solving problems with code, and improving my craft through consistent practice.
+Most days, you'll find me experimenting with new ideas, solving coding puzzles, or fine-tuning my projects. Take a look around!
 
 
 ## ⚙️ Current Focus
 
-* Full Stack Development
-* Backend Architecture
-* Building real-world applications
-* AI
+* **Full-Stack Development**: Building end-to-end web apps with the MERN stack.
+* **Backend Architecture**: Designing clean database schemas and robust APIs.
+* **AI Integration**: Figuring out how to connect smart AI models to local development tools.
 
 
-## 🛠 Tech Stack
+## 🛠 Tools of the Trade
 
 **Languages**
+
 
 ![Languages](https://skillicons.dev/icons?i=ts,js,python)
 
@@ -52,24 +50,6 @@ Most of my time goes into experimenting with ideas, solving problems with code, 
 <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="50" />
 <img src="https://yaak.app/static/logo.svg" height="45" />
 
-**Authentication & Security** <br>
-
-- JWT auth <br>
-- Session-based auth
-- Secure route protection & middleware
-
-**Deployment**
-
-- Netlify
-- Render
-- Railway
-- NeonDB
-  
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abythomas300)
-
-
 ## 📌 What You'll Find On My GitHub
 
 * Full-stack learning projects
@@ -80,4 +60,4 @@ Most of my time goes into experimenting with ideas, solving problems with code, 
 
 > I'm always looking for projects to collaborate with, irrespective of the tech stack. <br>
 > Feel free to fork my repos if you want. <br>
-> Found anything you can improve? Leave an PR!
+> Found anything you can improve? Leave a PR!
