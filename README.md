@@ -5,14 +5,15 @@ Welcome to my corner of GitHub! I’m a full-stack developer on a mission to bui
 Most days, you'll find me experimenting with new ideas, solving coding puzzles, or fine-tuning my projects. Take a look around!
 
 
-## ⚙️ Current Focus
+## `Current Focus`
 
-* **Full-Stack Development**: Building end-to-end web apps with the MERN stack.
+* **Full-Stack Development**: Building end-to-end web apps.
 * **Backend Architecture**: Designing clean database schemas and robust APIs.
 * **AI Integration**: Figuring out how to connect smart AI models to local development tools.
+* **IoT**: Building smart devices.
 
 
-## 🛠 Tools of the Trade
+## `Tools of the Trade`
 
 **Languages**
 
@@ -50,7 +51,7 @@ Most days, you'll find me experimenting with new ideas, solving coding puzzles, 
 <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="50" />
 <img src="https://yaak.app/static/logo.svg" height="45" />
 
-## 📌 What You'll Find On My GitHub
+## `What You'll Find On My GitHub`
 
 * Full-stack learning projects
 * Backend experiments
