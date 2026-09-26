@@ -12,6 +12,12 @@ Most days, you'll find me experimenting with new ideas, solving coding puzzles, 
 * **AI Integration**: Figuring out how to connect smart AI models to local development tools.
 * **IoT**: Building smart devices.
 
+## `Activity`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abythomas300&theme=github_dark" alt="GitHub Streak" />
+</p>
+
 
 ## `Tools of the Trade`
 
