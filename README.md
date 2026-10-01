@@ -15,7 +15,7 @@ Most days, you'll find me experimenting with new ideas, solving coding puzzles, 
 ## `Activity`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abythomas300&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abythomas300&theme=github_dark&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 
