@@ -1,8 +1,8 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=10000000&color=FFFFFF&vCenter=true&width=175&lines=Hey%2C+I'm+" alt="Hey I'm" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=00F2FE&vCenter=true&width=435&lines=Aby+Thomas.;a+Full-Stack+Developer.;" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=10000000&color=FFFFFF&vCenter=true&width=175&lines=Hey%2C+I'm+" alt="Hey, I'm Aby Thomas (Sry, this API is broken again..)" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=00F2FE&vCenter=true&width=435&lines=Aby+Thomas.;a+Full-Stack+Developer.;" alt="a Full Stack Developer"/>
 
-Welcome to my corner of GitHub! I’m a full-stack developer on a mission to build clean, efficient, and real-world systems.
+Welcome to my corner of GitHub! I’m a full-stack developer on a mission to build efficient real-world systems.
 
-Most days, you'll find me experimenting with new ideas, solving coding puzzles, or fine-tuning my projects. Take a look around!
+Most days, you'll find me building stuff, experimenting with new ideas, solving coding puzzles, or fine-tuning my projects. Take a look around!
 
 
 ## `Current Focus`
